@@ -1,3 +1,7 @@
+global.navigator={
+userAgent: 'node.js',
+};
+
 module.exports = {
   title: "Yong Du's Homepage",
   description: "Yong Du's Homepage",

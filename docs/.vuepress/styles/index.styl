@@ -1,0 +1,55 @@
+// disable outbound link icon
+.icon.outbound
+  display none
+
+
+.navbar {
+  width 950px
+  margin: 0 auto;
+  border-bottom: 0px solid
+  background-color transparent
+  position absolute 
+}
+
+.navbar .links{
+  background-color transparent 
+}
+
+.navbar .links{
+  background-color transparent !important
+  font-size: 1.1rem !important
+  top 1.6rem !important
+}
+
+.navbar .site-name{
+  visibility hidden
+}
+
+.navbar .logo {
+  height: 3rem !important
+  
+}
+
+@media (max-width: 1100px)
+  .navbar {
+    width 100%
+    margin: 0 auto;
+    border-bottom: 0px solid
+    background-color transparent
+    position absolute
+    z-index auto
+  }
+  .navbar .links{
+    z-index 0 !important
+  }
+  .sidebar {
+    z-index 30
+    width 10rem /*改sidebar宽度*/
+  }
+  .sidebar-button {
+    z-index 400 !important
+    //position fixed !important
+  }
+  .sidebar-open .sidebar-button{
+    position fixed !important
+  }

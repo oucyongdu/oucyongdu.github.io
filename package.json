@@ -1,0 +1,30 @@
+{
+  "name": "vuepress-homepage",
+  "version": "0.0.1",
+  "description": "Generate your homepage with VuePress",
+  "author": "Fing <mtobeiyf@163.com>",
+  "repository": "https://github.com/mtobeiyf/vuepress-homepage.git",
+  "scripts": {
+    "clean": "rimraf dist/*",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.4"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "c-swipe": "^2.1.5",
+    "markdown-it": "^8.4.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-katex": "^2.0.3",
+    "vue": "2.6.11",
+    "vue-amap": "^0.5.10",
+    "vue-baidu-map": "^0.21.22",
+    "vue-concise-slider": "^4.2.5",
+    "vue-seamless-scroll": "^1.1.23",
+    "vuescroll": "^4.17.5",
+    "vuescroll-carousel": "^0.0.13"
+  }
+}

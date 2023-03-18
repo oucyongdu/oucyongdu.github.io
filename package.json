@@ -19,7 +19,7 @@
     "markdown-it": "^8.4.1",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-katex": "^2.0.3",
-    "vue": "2.6.11",
+    "vue": "2.7.14",
     "vue-amap": "^0.5.10",
     "vue-baidu-map": "^0.21.22",
     "vue-concise-slider": "^4.2.5",

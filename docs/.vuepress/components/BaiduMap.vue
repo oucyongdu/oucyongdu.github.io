@@ -46,6 +46,14 @@
 </template>
 
 <script>
+import Vue from 'vue'
+import BaiduMap from 'vue-baidu-map'
+
+Vue.use(BaiduMap, {
+  /* Visit http://lbsyun.baidu.com/apiconsole/key for details about app key. */
+  ak: 'BI3mkVnhbiuMG9Z2vjDas16am8401p80'
+})
+
 export default {
   methods: {
     //地图初始化

@@ -31,7 +31,7 @@ VueAMap.initAMapApiLoader({
     v: '1.4.4', // 高德sdk版本，最新的sdk已经出到了2.0
     //官网解释：JSAPI 2.0 提供的开发接口与 1.4 版本达到 99%的兼容度，但是为了保证插件的稳定性我们还是选择1.4.4。
 })
-*/
+
 
 import Vue from 'vue'
 import BaiduMap from 'vue-baidu-map'
@@ -41,5 +41,5 @@ Vue.use(BaiduMap, {
     /* Visit http://lbsyun.baidu.com/apiconsole/key for details about app key. */
     ak: 'BI3mkVnhbiuMG9Z2vjDas16am8401p80'
 })
-
+*/
 

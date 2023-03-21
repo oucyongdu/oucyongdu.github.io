@@ -96,7 +96,7 @@ IEEE Transactions on Multimedia (**TMM**)
 
 <style lang="stylus">
 .profile .image img
-   max-width 150px
+   max-width 200px /*改变照片大小*/
 .profile .info
     //padding-left 10rem !important
   
@@ -143,7 +143,12 @@ IEEE Transactions on Multimedia (**TMM**)
       .card-image
         img 
           width 100%
-          max-width 400px          
+          max-width 400px      
 
+@media (max-width: $MQMobileNarrow)
+    .profile .image img
+        max-width 100%
+
+      
 
 </style>

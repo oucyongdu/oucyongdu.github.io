@@ -1,6 +1,7 @@
 ---
 pageClass: group-page
 ---
+
 <img src="/grouplogo.png" style="width: 100%;
 height: 100%;
 object-fit: contain;
@@ -139,7 +140,9 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 ## Photos
 
-<sliderRenderPagination></sliderRenderPagination>
+<ClientOnly>
+<Photos></Photos>
+</ClientOnly>
 
 
 <style lang="stylus">

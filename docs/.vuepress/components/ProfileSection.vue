@@ -40,7 +40,6 @@
 <script>
 export default {
   props: ['image', 'cv', 'frontmatter'],
-
   computed: {
     data() {
       return this.frontmatter;
@@ -51,14 +50,15 @@ export default {
 
 <style lang="stylus">
 @import './styles/config.styl'
-
 .profile
   display flex
   flex-direction row
   align-items stretch
   .image
-    max-width 150px /*150px能居中，120不行，下同，可能跟图片大小有关*/
-    width 150px !important
+    padding-left 10rem /*移动照片位置*/
+    padding-top 1rem  /*移动照片位置*/
+    max-width 170px /*这里是改手机照片大小的*/
+    width 170px !important /*这里是改手机照片大小的*/
     img
       border-radius 0%
       padding 2px
@@ -90,24 +90,21 @@ export default {
         font-size 1rem
         font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif
 
-/*@media (max-width: $MQMobileNarrow)
-  .profile
-    .image
-      max-width 100px
-*/
-
 @media (max-width: $MQNarrow)
   .profile
     .info
       padding-left 1rem !important
-
 @media (max-width: $MQMobile)
   .profile
     .info
       padding-left 1rem !important
-
+     .image     
+      max-width 100%
+      position relative
+      margin 0 auto
+      padding-left 0rem !important
+      padding-top 0rem !important
 @media (max-width: $MQMobileNarrow)
-
   .profile
       position relative !important
       margin 0 auto !important
@@ -118,4 +115,6 @@ export default {
       max-width 100%
       position relative
       margin 0 auto
+      padding-left 0rem !important
+      padding-top 0rem !important
    </style>

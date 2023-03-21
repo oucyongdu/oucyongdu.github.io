@@ -52,7 +52,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-<MemberCard image="/students/yulongzheng.JPG">
+<MemberCard image="/students/yulongzheng.jpg">
 
 <font size=4>**Yulong Zheng**</font>
 

@@ -12,7 +12,9 @@ max-height: 600px;">
 Room C403, School of Computer Science and Technology, Faculty of Information Science and Engineering, West Coast Campus of Ocean University of China, 1299 Sansha Road, Qingdao, China
 
 
-<BaiduMap></BaiduMap>
+<ClientOnly>
+<BaiduMap/>
+</ClientOnly>
 
 <style lang="stylus">
 

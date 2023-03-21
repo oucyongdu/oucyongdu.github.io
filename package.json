@@ -14,17 +14,11 @@
     "vuepress": "^1.0.4"
   },
   "dependencies": {
-    "@amap/amap-jsapi-loader": "^1.0.1",
-    "c-swipe": "^2.1.5",
     "markdown-it": "^8.4.1",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-katex": "^2.0.3",
-    "vue": "2.7.14",
-    "vue-amap": "^0.5.10",
     "vue-baidu-map": "^0.21.22",
     "vue-concise-slider": "^4.2.5",
-    "vue-seamless-scroll": "^1.1.23",
-    "vuescroll": "^4.17.5",
-    "vuescroll-carousel": "^0.0.13"
+    "vuescroll": "^4.17.5"
   }
 }

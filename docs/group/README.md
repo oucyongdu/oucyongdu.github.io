@@ -224,14 +224,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
             border: none
             display: border-box
 </style>
-<script>
-    import MemberCard from "../.vuepress/components/MemberCard";
-    import MemberTable from "../.vuepress/components/MemberTable";
-    import sliderRenderPagination from '../.vuepress/components/slider_renderPagination';
-    export default {
-        components: {MemberCard, sliderRenderPagination}
-    }
-</script>
+
 
 
 

@@ -127,7 +127,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
     />--> 
     <MemberTable              
         Index="" 
-        Image="/students/wenlongwan.png" 
+        Image="/students/wenlongwan.jpg" 
         Name="万文龙" 
         Ename="Wenlong Wan" 
         Graduation="2022" 

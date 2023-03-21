@@ -2,7 +2,7 @@
 pageClass: group-page
 ---
 
-<img src="/grouplogo.jpg" style="width: 100%;
+<img src="/grouplogo1.png" style="width: 100%;
 height: 100%;
 object-fit: contain;
 max-height: 300px;">

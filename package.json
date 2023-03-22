@@ -19,6 +19,7 @@
     "markdown-it-katex": "^2.0.3",
     "vue-baidu-map": "^0.21.22",
     "vue-concise-slider": "^4.2.5",
-    "vuescroll": "^4.17.5"
+    "vuescroll": "^4.17.5",
+    "yarn": "1.22.19"
   }
 }

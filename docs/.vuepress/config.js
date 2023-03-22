@@ -15,7 +15,7 @@ module.exports = {
       { text: "Teaching", link: "/teaching/" },
       { text: "Contact", link: "/contact/" },
     ],
-    lastUpdated: 'Last Updated'
+    /*lastUpdated: 'Last Updated'*/
   },
 
   markdown: {

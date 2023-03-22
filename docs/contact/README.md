@@ -2,7 +2,7 @@
 pageClass: contact-page
 ---
 
-<img src="/campus.jpg" style="width: 100%;
+<img src="/campus.png" style="width: 100%;
 height: 100%;
 object-fit: contain;
 max-height: 600px;">

@@ -2,7 +2,7 @@
 pageClass: group-page
 ---
 
-<img src="/vug/grouplogo1.png" style="width: 100%;
+<img src="/grouplogo.png" style="width: 100%;
 height: 100%;
 object-fit: contain;
 max-height: 300px;">
@@ -127,7 +127,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
     />--> 
     <MemberTable              
         Index="" 
-        Image="/students/wenlongwan.jpg" 
+        Image="/students/wenlongwan.png" 
         Name="万文龙" 
         Ename="Wenlong Wan" 
         Graduation="2022" 

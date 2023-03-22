@@ -6,7 +6,7 @@ module.exports = {
   title: "Yong Du's Homepage",
   description: "Yong Du's Homepage",
   head: [["link", { rel: "icon", href: `/headlogo.png` }]],
-  base: "/homepage/",
+  base: "/oucyongdu.github.io/",
   dest: ".vuepress/dist",
 
   themeConfig: {

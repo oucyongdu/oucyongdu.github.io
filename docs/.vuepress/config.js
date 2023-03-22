@@ -1,12 +1,8 @@
-global.navigator={
-userAgent: 'node.js',
-};
-
 module.exports = {
   title: "Yong Du's Homepage",
   description: "Yong Du's Homepage",
   head: [["link", { rel: "icon", href: `/headlogo.png` }]],
-  /*base: "/oucyongdu.github.io/",*/
+  base: "/",
   dest: ".vuepress/dist",
 
   themeConfig: {

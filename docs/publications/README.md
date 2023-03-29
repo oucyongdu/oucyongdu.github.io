@@ -38,7 +38,7 @@ pageClass: projects-page
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
   
-  [PDF][Code]
+  [[PDF](https://arxiv.org/pdf/2303.14218.pdf)] [Supp] [[Code](https://github.com/YuZheng9/C2PNet)]
 
 </ProjectCard>
 
@@ -60,11 +60,11 @@ pageClass: projects-page
 
 **Editing Out-of-domain GAN Inversion via Differential Activations**
 
-*Haorui Song<sup>#</sup>, **Yong Du<sup>#</sup>**, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He*
+*Haorui Song<sup>#</sup>, **Yong Du<sup>#</sup>**, Tianyi Xiang, Junyu Dong, Jing Qin, and Shengfeng He*
   
   European Conference on Computer Vision (**ECCV**), 2022
   
-  [[PDF](https://arxiv.org/abs/2207.08134)][[Video Demo](https://www.youtube.com/watch?v=aEM6mah60lc)] [[Code](https://github.com/HaoruiSong622/Editing-Out-of-Domain)]
+  [[PDF](https://arxiv.org/abs/2207.08134)] [[Video Demo](https://www.youtube.com/watch?v=aEM6mah60lc)] [[Code](https://github.com/HaoruiSong622/Editing-Out-of-Domain)]
 
 </ProjectCard>
 
@@ -84,7 +84,7 @@ pageClass: projects-page
 
   **Delving Deep into Pixelized Face Recovery and Defense**
   
-   *Zhixuan Zhong, **Yong Du**, Yang Zhou, Jiangzhong Cao, Shengfeng He*
+   *Zhixuan Zhong, **Yong Du**, Yang Zhou, Jiangzhong Cao, and Shengfeng He*
 
 Neurocomputing, 2022
 

@@ -7,7 +7,7 @@ profile: /yongdu.jpg
 
 
 
-bio1: Assistant Professor
+bio1: Associate Professor
 bio2: Faculty of Information Science and Engineering
 bio3: Ocean University of China
 
@@ -19,7 +19,7 @@ email: csyongdu@ouc.edu.cn
 ## Bio
 <p style="text-align:justify;text-align-last:justify"></p>
 
-I am an assistant professor in [the Faculty of Information Science and Engineering](http://it.ouc.edu.cn/), at [Ocean University of China](http://www.ouc.edu.cn/). I received my Ph.D. degree from [South China University of Technology](https://www.scut.edu.cn/new/) under the supervision of [Prof. Guoqiang Han](http://www2.scut.edu.cn/cs/2017/0629/c22284a328110/page.htm) and [Prof. Shengfeng He](http://www.shengfenghe.com/) in December 2019. I received the B.Sc. degree and M.Eng. degree in computer science and technology from [Jiangnan University](https://www.jiangnan.edu.cn/) under the supervision of [Prof. Xiaojun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en), in 2011 and 2014 respectively. 
+I am an associate professor in [the Faculty of Information Science and Engineering](http://it.ouc.edu.cn/), at [Ocean University of China](http://www.ouc.edu.cn/). I received my Ph.D. degree from [South China University of Technology](https://www.scut.edu.cn/new/) under the supervision of [Prof. Guoqiang Han](http://www2.scut.edu.cn/cs/2017/0629/c22284a328110/page.htm) and [Prof. Shengfeng He](http://www.shengfenghe.com/) in December 2019. I received the B.Sc. degree and M.Eng. degree in computer science and technology from [Jiangnan University](https://www.jiangnan.edu.cn/) under the supervision of [Prof. Xiaojun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en), in 2011 and 2014 respectively. 
 
 My research interests encompass the realms of visual understanding, cross-modal generation, and deep learning. Currently, I am the leader of the [Visual Understanding and Generation (VUG) group](http://127.0.0.1:8080/group/) at the [Institute of Artificial Intelligence](http://ai-ouc.cn/), Ocean University of China.
 

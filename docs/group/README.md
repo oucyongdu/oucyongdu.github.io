@@ -28,30 +28,6 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-<MemberCard image="/students/jiahuizhan.jpg">
-
-<font size=4>**Jiahui Zhan**</font>
-
-<font size=3>(展家慧)</font>
-
-<font size=3>Master Student </font>
-
-<font size=3>2021-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/yuzheng.png">
-
-<font size=4>**Yu Zheng**</font>
-
-<font size=3>(郑宇)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2021-Present</font>
-
-</MemberCard>
-
 <MemberCard image="/students/yulongzheng.jpg">
 
 <font size=4>**Yulong Zheng**</font>
@@ -96,7 +72,59 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 <font size=3>Master Student</font>
 
-<font size=3>2022-Present</font>
+<font size=3>2023-Present</font>
+
+</MemberCard>
+
+</div>
+<MemberCard image="/students/yingli.jpg">
+
+<font size=4>**Ying Li**</font>
+
+<font size=3>(李莹)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2023-Present</font>
+
+</MemberCard>
+
+</div>
+<MemberCard image="/students/chilinhe.jpg">
+
+<font size=4>**Chilin He**</font>
+
+<font size=3>(何驰林)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2023-Present</font>
+
+</MemberCard>
+
+</div>
+<MemberCard image="/students/yichen.jpg">
+
+<font size=4>**Yi Chen**</font>
+
+<font size=3>(陈艺)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2023-Present</font>
+
+</MemberCard>
+
+</div>
+<MemberCard image="/students/yuhuili.jpg">
+
+<font size=4>**Yuhui Li**</font>
+
+<font size=3>(李昱辉)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2024-Present</font>
 
 </MemberCard>
 
@@ -115,6 +143,36 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         <th>Award</th>
         <th>First Job/Currently</th>
     </tr>
+      <MemberTable              
+        Index="Master #3" 
+        Image="/students/yuzheng.png" 
+        Name="郑宇" 
+        Ename="Yu Zheng" 
+        Graduation="2024" 
+        Program="Master at OUC" 
+        Award="National Scholarship for Graduate Students" 
+        Currently="PhD at NJUST"
+    />
+    <MemberTable              
+        Index="Master #2" 
+        Image="/students/weihualv.jpg" 
+        Name="吕伟华" 
+        Ename="Weihua Lv" 
+        Graduation="2024" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="积成电子股份有限公司"
+    />
+      <MemberTable              
+        Index="Master #1" 
+        Image="/students/jiahuizhan.jpg" 
+        Name="展家慧" 
+        Ename="Jiahui Zhan" 
+        Graduation="2024" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="PhD at SJTU"
+    />
      <MemberTable              
         Index="" 
         Image="/students/xiaolinliu.png" 

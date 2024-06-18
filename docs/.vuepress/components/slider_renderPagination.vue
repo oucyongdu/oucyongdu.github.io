@@ -214,7 +214,6 @@ export default {
           html_text: '<div>2023.09.20, Welcome Dinner</div>',
           style: {}
         },
-
        {
           html: '<img class="card-img" @click=\'slideNext\' src="../photos/20220621.jpg">',
           html_text: '<div>2022.06.21, One Last Team Building Event at Laoshan Campus</div>',

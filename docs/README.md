@@ -23,12 +23,13 @@ I am an assistant professor in [the Faculty of Information Science and Engineeri
 
 My research interests encompass the realms of visual understanding, cross-modal generation, and deep learning. Currently, I am the leader of the [Visual Understanding and Generation (VUG) group](http://127.0.0.1:8080/group/) at the [Institute of Artificial Intelligence](http://ai-ouc.cn/), Ocean University of China.
 
-<font color='chocolate'>**I am currently seeking outstanding and motivated M.S. candidates to undertake exciting and innovative projects in computer vision and image processing. If you possess a keen interest in these areas and are driven to succeed, I invite you to submit your curriculum vitae and academic transcripts for consideration by emailing them to me at [csyongdu@ouc.edu.cn].**</font>
+<font color='chocolate'>**I am actively seeking outstanding and motivated M.S. candidates to undertake exciting and innovative projects in computer vision and image processing. If you possess a keen interest in these areas and are driven to succeed, I invite you to submit your curriculum vitae and academic transcripts for consideration by emailing them to me at [csyongdu@ouc.edu.cn].**</font>
 
 
 ## News
 
--  02/2023, 1 paper has been accepted by [CVPR2023](https://cvpr.thecvf.com/). 
+-  02/2024, 1 paper has been accepted by [CVPR2024](https://cvpr.thecvf.com/Conferences/2024). 
+-  02/2023, 1 paper has been accepted by [CVPR2023](https://cvpr.thecvf.com/Conferences/2023). 
 -  02/2023, 1 paper has been accepted by CVIU.
 -  07/2022, 1 paper has been accepted by [ECCV2022](https://eccv2022.ecva.net/).
 -  12/2021, 1 paper has been accepted by IEEE TIP.

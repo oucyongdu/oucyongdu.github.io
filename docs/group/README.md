@@ -115,16 +115,16 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         <th>Award</th>
         <th>First Job/Currently</th>
     </tr>
-     <!--<MemberTable              
+     <MemberTable              
         Index="" 
         Image="/students/xiaolinliu.png" 
         Name="刘晓琳" 
         Ename="Xiaolin Liu" 
         Graduation="2023" 
-        Program="Visiting Student at VUG group" 
+        Program="Research Intern" 
         Award="" 
         Currently="M.S. at TJU"
-    />--> 
+    />
     <MemberTable              
         Index="" 
         Image="/students/wenlongwan.png" 

@@ -28,6 +28,33 @@ pageClass: projects-page
 <p style="position: relative"><font size=4><sup>#</sup>Joint first author, *Corresponding author.</font>
 </p>
 
+
+## 2024
+<ProjectCard image="/projects/CVPR2024.jpg">  
+
+**D3still: Decoupled Differential Distillation for Asymmetric Image Retrieval**
+
+*Yi Xie, Yihong Lin, Wenjie Cai, Xuemiao Xu, Huaidong Zhang, **Yong Du**, and  Shengfeng He*
+  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+  
+  [PDF] [Code]
+
+</ProjectCard>
+
+<ProjectCard>
+
+  **Enhancing Generalized Zero-shot Learning with Dynamic Selective Knowledge Distillation**
+  
+   *Weihua Lv, Yulong Zheng, Chao Liu, and **Yong Du\****
+
+International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA), 2024
+
+[PDF]
+
+</ProjectCard>
+
+
 ## 2023 
 
 <ProjectCard image="/projects/CVPR2023.jpg">  

@@ -147,7 +147,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Graduation="2024" 
         Program="Master at OUC" 
         Award="National Scholarship for Graduate Students" 
-        Currently="PhD at NJUST"
+        Currently="PhD at NJUST <br>南京理工大学读博"
     />
     <MemberTable              
         Index="Master #2" 
@@ -167,7 +167,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Graduation="2024" 
         Program="Master at OUC" 
         Award="" 
-        Currently="PhD at SJTU"
+        Currently="PhD at SJTU <br>上海交通大学读博"
     />
      <MemberTable              
         Index="" 

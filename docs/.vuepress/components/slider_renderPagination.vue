@@ -204,12 +204,16 @@ export default {
           html_text: '<div>2024.06.12, Outdoor Barbecue for Graduation</div>',
           style: {}
         },  
-        {
+       {
           html: '<img class="card-img" src="../photos/20231205.jpg">',
-          html_text: '<div>2023.12.05, Yu Zheng's National Scholarship Celebration Dinner</div>',
+          html_text: '<div>2023.12.05, Yu Zheng\'s National Scholarship Celebration Dinner</div>',
           style: {}
-        },      
-     
+        },
+        {
+          html: '<img class="card-img" src="../photos/20230920.jpg">',
+          html_text: '<div>2023.09.20, Welcome Dinner</div>',
+          style: {}
+        },   
         {
           html: '<img class="card-img" src="../photos/20220601.jpg">',
           html_text: '<div>2022.06.01, Children\'s Day</div>',

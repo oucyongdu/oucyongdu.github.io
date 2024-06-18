@@ -36,7 +36,7 @@
         <div style="line-height: 17px;">
           <span style="font-size: 15px;">{{Currently}}</span>
         </div>
-      </td>
+      </td>     
     </tr>
 </template>
 

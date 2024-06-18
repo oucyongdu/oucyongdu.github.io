@@ -16,18 +16,6 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 <div style="position: relative;line-height:1.5em;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
 
-<MemberCard image="/students/weihualv.jpg">
-
-<font size=4>**Weihua Lv**</font>
-
-<font size=3>(吕伟华)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2021-Present</font>
-
-</MemberCard>
-
 <MemberCard image="/students/yulongzheng.jpg">
 
 <font size=4>**Yulong Zheng**</font>
@@ -76,7 +64,6 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-</div>
 <MemberCard image="/students/yingli.jpg">
 
 <font size=4>**Ying Li**</font>
@@ -89,7 +76,6 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-</div>
 <MemberCard image="/students/chilinhe.jpg">
 
 <font size=4>**Chilin He**</font>
@@ -102,7 +88,6 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-</div>
 <MemberCard image="/students/yichen.jpg">
 
 <font size=4>**Yi Chen**</font>
@@ -115,12 +100,23 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
-</div>
 <MemberCard image="/students/yuhuili.jpg">
 
 <font size=4>**Yuhui Li**</font>
 
 <font size=3>(李昱辉)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2024-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/yanyingli.jpg">
+
+<font size=4>**Yanying Li**</font>
+
+<font size=3>(李彦颖)</font>
 
 <font size=3>Master Student</font>
 

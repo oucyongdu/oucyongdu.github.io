@@ -30,6 +30,19 @@ pageClass: projects-page
 
 
 ## 2024
+<ProjectCard image="/projects/ECCV2024.jpg">  
+
+**D$^4$-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On**
+
+*Zhaotong Yang, Zicheng Jiang, Xinzhe Li, Huiyu Zhou, Junyu Dong, Huaidong Zhang, and **Yong Du\****
+  
+ European Conference on Computer Vision (**ECCV**), 2024
+  
+  [PDF] [[arxiv](https://arxiv.org/pdf/2303.14218.pdf)] [Supp] [[Code](https://github.com/Jerome-Young/D4-VTON)]
+
+</ProjectCard>
+
+
 <ProjectCard image="/projects/CVPR2024.jpg">  
 
 **D3still: Decoupled Differential Distillation for Asymmetric Image Retrieval**
@@ -38,7 +51,7 @@ pageClass: projects-page
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
   
-  [PDF] [Code]
+  [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_D3still_Decoupled_Differential_Distillation_for_Asymmetric_Image_Retrieval_CVPR_2024_paper.pdf)] [Code]
 
 </ProjectCard>
 
@@ -65,7 +78,7 @@ International Conference on Wireless Artificial Intelligent Computing Systems an
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023
   
-  [[PDF](https://arxiv.org/pdf/2303.14218.pdf)] [Supp] [[Code](https://github.com/YuZheng9/C2PNet)]
+  [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Curricular_Contrastive_Regularization_for_Physics-Aware_Single_Image_Dehazing_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zheng_Curricular_Contrastive_Regularization_CVPR_2023_supplemental.pdf)] [[Code](https://github.com/YuZheng9/C2PNet)]
 
 </ProjectCard>
 

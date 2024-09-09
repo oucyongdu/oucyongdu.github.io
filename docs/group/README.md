@@ -124,6 +124,18 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
+<MemberCard image="/students/jixingao.jpg">
+
+<font size=4>**Jixin Gao**</font>
+
+<font size=3>(高纪鑫)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2024-Present</font>
+
+</MemberCard>
+
 </div>
 
 ## Alumni

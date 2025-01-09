@@ -37,7 +37,7 @@ pageClass: projects-page
   
  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
   
-  [[PDF](https://arxiv.org/pdf/2310.14222)] [Code]
+  [[PDF](https://arxiv.org/pdf/2310.14222)] [Code] [Demo]
 
 </ProjectCard>
 
@@ -62,7 +62,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
  European Conference on Computer Vision (**ECCV**), 2024
   
-  [PDF] [[arxiv](https://arxiv.org/pdf/2303.14218.pdf)] [Supp] [[Code](https://github.com/Jerome-Young/D4-VTON)]
+  [[PDF](https://arxiv.org/pdf/2407.15111)] [[Code](https://github.com/Jerome-Young/D4-VTON)]
 
 </ProjectCard>
 

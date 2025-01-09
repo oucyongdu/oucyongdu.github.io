@@ -29,7 +29,7 @@ pageClass: projects-page
 </p>
 
 ## 2025
-<ProjectCard image="/projects/TPAMI2025.png">  
+<ProjectCard image="/projects/TPAMI2025.jpg">  
 
 **One-for-All: Towards Universal Domain Translation with a Single StyleGAN**
 
@@ -41,7 +41,7 @@ pageClass: projects-page
 
 </ProjectCard>
 
-<ProjectCard image="/projects/AAAI2025.png">  
+<ProjectCard image="/projects/AAAI2025.jpg">  
 
 **PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**
 
@@ -49,7 +49,7 @@ pageClass: projects-page
   
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
-  [[PDF](https://arxiv.org/abs/2412.15674)] [[Code](https://github.com/xzhe-Vision/PersonaMagic)]
+  [[PDF](https://arxiv.org/pdf/2412.15674)] [[Code](https://github.com/xzhe-Vision/PersonaMagic)]
 
 </ProjectCard>
 

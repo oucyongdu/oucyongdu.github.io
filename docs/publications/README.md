@@ -28,11 +28,35 @@ pageClass: projects-page
 <p style="position: relative"><font size=4><sup>#</sup>Joint first author, *Corresponding author.</font>
 </p>
 
+## 2025
+<ProjectCard image="/projects/TPAMI2025.png">  
+
+**One-for-All: Towards Universal Domain Translation with a Single StyleGAN**
+
+***Yong Du<sup>#</sup>**, Jiahui Zhan<sup>#</sup>, Xinzhe Li, Junyu Dong, Sheng Chen, Ming-Hsuan Yang, and Shengfeng He*
+  
+ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
+  
+  [[PDF](https://arxiv.org/pdf/2310.14222)] [Code]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/AAAI2025.png">  
+
+**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**
+
+*Xinzhe Li, Jiahui Zhan, Shengfeng He, Yangyang Xu, Junyu Dong, Huaidong Zhang, and **Yong Du\****
+  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025
+  
+  [[PDF](https://arxiv.org/abs/2412.15674)] [[Code](https://github.com/xzhe-Vision/PersonaMagic)]
+
+</ProjectCard>
 
 ## 2024
 <ProjectCard image="/projects/ECCV2024.jpg">  
 
-**D$^4$-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On**
+**D<sup>4</sup>-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On**
 
 *Zhaotong Yang, Zicheng Jiang, Xinzhe Li, Huiyu Zhou, Junyu Dong, Huaidong Zhang, and **Yong Du\****
   
@@ -47,7 +71,7 @@ pageClass: projects-page
 
 **D3still: Decoupled Differential Distillation for Asymmetric Image Retrieval**
 
-*Yi Xie, Yihong Lin, Wenjie Cai, Xuemiao Xu, Huaidong Zhang, **Yong Du**, and  Shengfeng He*
+*Yi Xie, Yihong Lin, Wenjie Cai, Xuemiao Xu, Huaidong Zhang, **Yong Du**, and Shengfeng He*
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
   

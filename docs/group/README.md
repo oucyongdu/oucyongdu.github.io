@@ -169,7 +169,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Graduation="2024" 
         Program="Master at OUC" 
         Award="" 
-        Currently="积成电子股份有限公司"
+        Currently="山东乾云信息科技有限公司"
     />
       <MemberTable              
         Index="Master #1" 

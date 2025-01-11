@@ -55,7 +55,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
 <ProjectCard image="/projects/TVCG2025.jpg">  
 
-**StyleGAN-$\infty$: Extending StyleGAN to Arbitrary-Ratio Translation with StyleBook**
+**StyleGAN-∞: Extending StyleGAN to Arbitrary-Ratio Translation with StyleBook**
 
 *Yihua Dai, Tianyi Xiang, Bailin Deng, **Yong Du**, Hongmin Cai, Jing Qin, and Shengfeng He*
   

@@ -37,7 +37,7 @@ pageClass: projects-page
   
  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
   
-  [[PDF](https://arxiv.org/pdf/2310.14222)] [Code] [Demo]
+  [[PDF](https://arxiv.org/pdf/2310.14222)] [[Project Page](https://zhanjiahui.github.io/UniTranslator/)] 
 
 </ProjectCard>
 
@@ -50,6 +50,18 @@ pageClass: projects-page
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
   [[PDF](https://arxiv.org/pdf/2412.15674)] [[Code](https://github.com/xzhe-Vision/PersonaMagic)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/TVCG2025.jpg">  
+
+**StyleGAN-$\infty$: Extending StyleGAN to Arbitrary-Ratio Translation with StyleBook**
+
+*Yihua Dai, Tianyi Xiang, Bailin Deng, **Yong Du**, Hongmin Cai, Jing Qin, and Shengfeng He*
+  
+ IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025
+  
+ [PDF] [Code]
 
 </ProjectCard>
 

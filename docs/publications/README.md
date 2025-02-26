@@ -29,6 +29,18 @@ pageClass: projects-page
 </p>
 
 ## 2025
+<ProjectCard image="/projects/CVPR2025.jpg">  
+
+**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**
+
+*Yulong Zheng, Zicheng Jiang, Shengfeng He, Yandu Sun, Junyu Dong, Huaidong Zhang, and **Yong Du\****
+  
+ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
+  
+ [PDF] [Code] 
+
+</ProjectCard>
+
 <ProjectCard image="/projects/TPAMI2025.jpg">  
 
 **One-for-All: Towards Universal Domain Translation with a Single StyleGAN**

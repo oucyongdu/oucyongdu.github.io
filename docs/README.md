@@ -11,7 +11,7 @@ bio1: Associate Professor
 bio2: Faculty of Information Science and Engineering
 bio3: Ocean University of China
 
-email: Email: csyongdu@ouc.edu.cn
+email: csyongdu@ouc.edu.cn
 ---
 <div>                </div>
 <ProfileSection :frontmatter="$page.frontmatter" />

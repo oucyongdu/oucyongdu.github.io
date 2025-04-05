@@ -36,6 +36,8 @@ pageClass: projects-page
 *Yulong Zheng, Zicheng Jiang, Shengfeng He, Yandu Sun, Junyu Dong, Huaidong Zhang, and **Yong Du\****
   
  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
+
+<span style="font-size: 15px; color: rgb(226, 80, 65);">(Highlight Paper, Top 2.97% of all submissions)</span>
   
  [PDF] [Code] 
 

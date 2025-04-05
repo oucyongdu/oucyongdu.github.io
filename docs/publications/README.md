@@ -39,7 +39,7 @@ pageClass: projects-page
 
 <span style="font-size: 15px; color: rgb(226, 80, 65);">(Highlight Paper, Top 2.98% of all submissions)</span>
   
- [PDF] [Code] 
+ [[PDF](https://arxiv.org/abs/2503.18794)] [[Project Page](https://usmizuki.github.io/NexusGS/)] [[Demo](https://www.youtube.com/watch?v=K2foTIXzpMQ)]
 
 </ProjectCard>
 
@@ -51,7 +51,7 @@ pageClass: projects-page
   
  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
   
-  [[PDF](https://arxiv.org/pdf/2310.14222)] [[Project Page](https://zhanjiahui.github.io/UniTranslator/)] 
+  [[PDF](https://arxiv.org/pdf/2310.14222)] [[Project Page](https://zhanjiahui.github.io/UniTranslator/)] [[Demo](https://www.youtube.com/watch?v=_VTF9-U7V3g)]
 
 </ProjectCard>
 

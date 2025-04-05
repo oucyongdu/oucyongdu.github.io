@@ -37,7 +37,7 @@ pageClass: projects-page
   
  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 
-<span style="font-size: 15px; color: rgb(226, 80, 65);">(Highlight Paper, Top 2.97% of all submissions)</span>
+<span style="font-size: 15px; color: rgb(226, 80, 65);">(Highlight Paper, Top 2.98% of all submissions)</span>
   
  [PDF] [Code] 
 

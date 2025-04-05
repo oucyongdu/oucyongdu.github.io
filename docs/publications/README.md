@@ -101,7 +101,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
   
-  [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_D3still_Decoupled_Differential_Distillation_for_Asymmetric_Image_Retrieval_CVPR_2024_paper.pdf)] [Code]
+  [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_D3still_Decoupled_Differential_Distillation_for_Asymmetric_Image_Retrieval_CVPR_2024_paper.pdf)] [[Code](https://github.com/SCY-X/D3still)]
 
 </ProjectCard>
 
@@ -113,7 +113,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
 International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA), 2024
 
-[PDF]
+[[PDF](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 

@@ -29,6 +29,42 @@ pageClass: projects-page
 </p>
 
 ## 2025
+<ProjectCard image="/projects/ICCV25-VTON.jpg">  
+
+**OmniVTON: Training-Free Universal Virtual Try-On**
+
+*Zhaotong Yang, Yuhui Li, Shengfeng He, Xinzhe Li, Yangyang Xu, Junyu Dong, and **Yong Du\****
+  
+ International Conference on Computer Vision (**ICCV**), 2025
+  
+ [PDF] [Code] 
+
+</ProjectCard>
+
+<ProjectCard image="/projects/ICCV25-BAI.jpg">  
+
+**Cross-Subject Mind Decoding from Inaccurate Representations**
+
+*Yangyang Xu, Bangzhen Liu, Wenqi Shao, **Yong Du**, Shengfeng He, and Tingting Zhu*
+  
+ International Conference on Computer Vision (**ICCV**), 2025
+  
+ [PDF] [Code]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/ICCV25-SSD.jpg">  
+
+**Stable Score Distillation**
+
+*Haiming Zhu, Yangyang Xu, Chenshu Xu, Tingrui Shen, Wenxi Liu, **Yong Du**, Jun Yu, and Shengfeng He*
+  
+ International Conference on Computer Vision (**ICCV**), 2025
+  
+ [PDF] [Code]
+
+</ProjectCard>
+
 <ProjectCard image="/projects/CVPR2025.jpg">  
 
 **NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**

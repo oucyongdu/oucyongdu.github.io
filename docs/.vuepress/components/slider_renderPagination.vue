@@ -190,7 +190,17 @@ export default {
     setTimeout(function () {
       that.someList = [
        {
-          html: '<img class="card-img" @click=\'slideNext\' src="../photos/20240618.jpg">',
+          html: '<img class="card-img" @click=\'slideNext\' src="../photos/20250608-1.jpg">',
+          html_text: '<div>2024.06.08, Graduation 2025</div>',
+          style: {}
+        },
+      {
+          html: '<img class="card-img" src="../photos/20250608-2.jpg">',
+          html_text: '<div>2025.06.08, Graduation 2025</div>',
+          style: {}
+        },
+      {
+          html: '<img class="card-img" src="../photos/20240618.jpg">',
           html_text: '<div>2024.06.17, Graduation 2024</div>',
           style: {}
         },

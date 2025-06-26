@@ -83,7 +83,7 @@ pageClass: projects-page
 
 **One-for-All: Towards Universal Domain Translation with a Single StyleGAN**
 
-***Yong Du<sup>#</sup>**, Jiahui Zhan<sup>#</sup>, Xinzhe Li, Junyu Dong, Sheng Chen, Ming-Hsuan Yang, and Shengfeng He*
+***Yong Du<sup>#</sup>\***, Jiahui Zhan<sup>#</sup>, Xinzhe Li, Junyu Dong, Sheng Chen, Ming-Hsuan Yang, and Shengfeng He*
   
  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
   

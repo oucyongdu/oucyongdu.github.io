@@ -111,7 +111,19 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
  IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025
   
- [PDF] [Code]
+ [[PDF](https://ieeexplore.ieee.org/document/10816137)] [Code]
+
+</ProjectCard>
+
+<ProjectCard>
+
+  **SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**
+  
+   *Jingdan Kang, Haoxin Yang, Yan Cai, Huaidong Zhang, Xuemiao Xu, **Yong Du**, and Shengfeng He*
+
+IEEE Transactions on Information Forensics and Security (**TIFS**), 2025
+
+[[PDF](https://ieeexplore.ieee.org/document/10943240/)] [[Code](https://github.com/A-raniy-day/SITA)]
 
 </ProjectCard>
 

@@ -9,48 +9,12 @@ max-height: 300px;">
 
 # Group
 
-The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** and [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/main.htm), and it belongs to the [Institute of Artificial Intelligence](http://ai-ouc.cn/) at OUC.
+The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** and [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/main.htm), and it belongs to the [Institute of Artificial Intelligence](http://ai-ouc.cn/) at OUC.
 
 
 ## Students
 
 <div style="position: relative;line-height:1.5em;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
-
-<MemberCard image="/students/yulongzheng.jpg">
-
-<font size=4>**Yulong Zheng**</font>
-
-<font size=3>(郑玉龙)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2022-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/xinzheli.png">
-
-<font size=4>**Xinzhe Li**</font>
-
-<font size=3>(李新哲)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2022-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/zhaotongyang.jpg">
-
-<font size=4>**Zhaotong Yang**</font>
-
-<font size=3>(杨肇桐)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2022-Present</font>
-
-</MemberCard>
 
 <MemberCard image="/students/zichengjiang.jpg">
 
@@ -136,6 +100,66 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
 
 </MemberCard>
 
+<MemberCard image="">
+
+<font size=4>**Ziqi Ma**</font>
+
+<font size=3>(马子淇)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
+<MemberCard image="">
+
+<font size=4>**Zhongfeng Wu**</font>
+
+<font size=3>(武忠峰)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
+<MemberCard image="">
+
+<font size=4>**Jinyang Li**</font>
+
+<font size=3>(李金阳)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
+<MemberCard image="">
+
+<font size=4>**Fengguang Yu**</font>
+
+<font size=3>(于风广)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
+<MemberCard image="">
+
+<font size=4>**Dongqi Ma**</font>
+
+<font size=3>(麻东琦)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
 </div>
 
 ## Alumni
@@ -151,6 +175,36 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         <th>Award</th>
         <th>First Job/Currently</th>
     </tr>
+ <MemberTable              
+        Index="Master #6" 
+        Image="/students/yulongzheng.jpg" 
+        Name="郑玉龙" 
+        Ename="Yulong Zheng" 
+        Graduation="2025" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="旷视科技"
+    />
+ <MemberTable              
+        Index="Master #5" 
+        Image="/students/xinzheli.png" 
+        Name="李新哲" 
+        Ename="Xinzhe Li" 
+        Graduation="2025" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="旷视科技"
+    />
+       <MemberTable              
+        Index="Master #4" 
+        Image="/students/zhaotongyang.jpg" 
+        Name="杨肇桐" 
+        Ename="Zhaotong Yang" 
+        Graduation="2025" 
+        Program="Master at OUC" 
+        Award="National Scholarship for Graduate Students" 
+        Currently="PhD at 南京理工大学(NJUST)"
+    />
       <MemberTable              
         Index="Master #3" 
         Image="/students/yuzheng.png" 
@@ -180,6 +234,36 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Program="Master at OUC" 
         Award="" 
         Currently="PhD at 上海交通大学(SJTU)"
+    />    
+    <MemberTable              
+        Index="" 
+        Image="/students/xiaolinliu.png" 
+        Name="曹文汀" 
+        Ename="Wenting Cao" 
+        Graduation="2025" 
+        Program="Research Intern" 
+        Award="Excellent Undergraduate Graduation Project" 
+        Currently="M.S. at 北京大学"
+    />
+<MemberTable              
+        Index="" 
+        Image="/students/wenlongwan.png" 
+        Name="孙延都" 
+        Ename="Yandu Sun" 
+        Graduation="2025" 
+        Program="Research Intern" 
+        Award="Excellent Undergraduate Graduation Project" 
+        Currently="M.S. at 东南大学"
+    />
+<MemberTable              
+        Index="" 
+        Image="/students/wenlongwan.png" 
+        Name="陈岳阳" 
+        Ename="Yueyang Chen" 
+        Graduation="2025" 
+        Program="Research Intern" 
+        Award="" 
+        Currently="M.S. at 浙江大学"
     />
      <MemberTable              
         Index="" 
@@ -189,7 +273,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Graduation="2023" 
         Program="Research Intern" 
         Award="" 
-        Currently="M.S. at TJU"
+        Currently="M.S. at 天津大学"
     />
     <MemberTable              
         Index="" 
@@ -199,7 +283,7 @@ The Visual Understanding and Generation (VUG) group is led by **Dr. Yong Du** an
         Graduation="2022" 
         Program="Research Intern" 
         Award="Excellent Undergraduate Graduation Project" 
-        Currently="M.S. at SCUT"
+        Currently="M.S. at 华南理工大学"
     />
 </tbody>
 </table>

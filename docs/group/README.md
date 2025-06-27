@@ -100,19 +100,7 @@ The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** 
 
 </MemberCard>
 
-<MemberCard image="/students/fengguangyu.jpg">
-
-<font size=4>**Fengguang Yu**</font>
-
-<font size=3>(于风广)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2025-Present</font>
-
-</MemberCard>
-
-<MemberCard image="">
+<MemberCard image="/students/ziqima.jpg">
 
 <font size=4>**Ziqi Ma**</font>
 
@@ -124,11 +112,23 @@ The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** 
 
 </MemberCard>
 
-<MemberCard image="">
+<MemberCard image="/students/zhongfengwu.jpg">
 
 <font size=4>**Zhongfeng Wu**</font>
 
 <font size=3>(武忠峰)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2025-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/fengguangyu.jpg">
+
+<font size=4>**Fengguang Yu**</font>
+
+<font size=3>(于风广)</font>
 
 <font size=3>Master Student</font>
 
@@ -148,7 +148,7 @@ The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** 
 
 </MemberCard>
 
-<MemberCard image="">
+<MemberCard image="/students/dongqima.jpg">
 
 <font size=4>**Dongqi Ma**</font>
 

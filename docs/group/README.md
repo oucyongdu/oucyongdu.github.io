@@ -148,7 +148,7 @@ The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** 
 
 </MemberCard>
 
-<MemberCard image="">
+<MemberCard image="/students/wenlongwan.png">
 
 <font size=4>**Jinyang Li**</font>
 

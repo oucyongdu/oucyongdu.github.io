@@ -191,7 +191,7 @@ export default {
       that.someList = [
        {
           html: '<img class="card-img" @click=\'slideNext\' src="../photos/202506081.jpg">',
-          html_text: '<div>2024.06.08, Graduation 2025</div>',
+          html_text: '<div>2025.06.08, Graduation 2025</div>',
           style: {}
         },
       {

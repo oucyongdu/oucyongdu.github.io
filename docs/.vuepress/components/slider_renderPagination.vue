@@ -208,27 +208,7 @@ export default {
           html: '<img class="card-img" src="../photos/20240617.jpg">',
           html_text: '<div>2024.06.17, Graduation 2024</div>',
           style: {}
-        },    
-       {
-          html: '<img class="card-img" src="../photos/20240612.jpg">',
-          html_text: '<div>2024.06.12, Outdoor Barbecue for Graduation</div>',
-          style: {}
-        },  
-       {
-          html: '<img class="card-img" src="../photos/20231205.jpg">',
-          html_text: '<div>2023.12.05, Yu Zheng\'s National Scholarship Celebration Dinner</div>',
-          style: {}
-        },
-        {
-          html: '<img class="card-img" src="../photos/20230920.jpg">',
-          html_text: '<div>2023.09.20, Welcome Dinner</div>',
-          style: {}
-        },   
-        {
-          html: '<img class="card-img" src="../photos/20220601.jpg">',
-          html_text: '<div>2022.06.01, Children\'s Day</div>',
-          style: {}
-        }, 
+        },                       
         {
           html: '<img class="card-img" src="../photos/20220421.jpg">',
           html_text: '<div>2022.04.21, Spring Outing, Sakura Avenue at Laoshan Campus</div>',
@@ -236,7 +216,7 @@ export default {
         },
         {
           html: '<img class="card-img" src="../photos/20211129.jpg">',
-          html_text: '<div>2021.11.29, Welcome Dinner</div>',
+          html_text: '<div>2021.11.29, Welcome Day</div>',
           style: {}
         }       
       ]

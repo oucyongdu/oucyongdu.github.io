@@ -111,7 +111,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
 ACM International Conference on Multimedia (**ACM MM**), 2025
   
-  [[PDF](https://www.csyongdu.cn/publications/)]] [[Code](https://www.csyongdu.cn/publications/)]
+  [[PDF](https://www.csyongdu.cn/publications/)] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 

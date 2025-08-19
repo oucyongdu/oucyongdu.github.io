@@ -37,7 +37,7 @@ pageClass: projects-page
   
  International Conference on Computer Vision (**ICCV**), 2025
   
- [PDF] [Code] 
+ [[PDF](https://arxiv.org/abs/2507.15037)] [[Code](https://github.com/Jerome-Young/OmniVTON)] 
 
 </ProjectCard>
 
@@ -49,7 +49,7 @@ pageClass: projects-page
   
  International Conference on Computer Vision (**ICCV**), 2025
   
- [PDF] [Code]
+ [[PDF](https://arxiv.org/abs/2507.19071)] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 
@@ -61,7 +61,7 @@ pageClass: projects-page
   
  International Conference on Computer Vision (**ICCV**), 2025
   
- [PDF] [Code]
+ [[PDF](https://arxiv.org/abs/2507.09168)] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 
@@ -111,7 +111,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
 ACM International Conference on Multimedia (**ACM MM**), 2025
   
-  [PDF] [Code]
+  [[PDF](https://www.csyongdu.cn/publications/)]] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 
@@ -123,7 +123,7 @@ ACM International Conference on Multimedia (**ACM MM**), 2025
   
  IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025
   
- [[PDF](https://ieeexplore.ieee.org/document/10816137)] [Code]
+ [[PDF](https://ieeexplore.ieee.org/document/10816137)] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 

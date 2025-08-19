@@ -45,7 +45,7 @@ pageClass: projects-page
 
 **Cross-Subject Mind Decoding from Inaccurate Representations**
 
-*Yangyang Xu, Bangzhen Liu, Wenqi Shao, **Yong Du**, Shengfeng He, and Tingting Zhu*
+*Yangyang Xu, Bangzhen Liu, Wenqi Shao, **Yong Du\***, Shengfeng He, and Tingting Zhu*
   
  International Conference on Computer Vision (**ICCV**), 2025
   
@@ -100,6 +100,18 @@ pageClass: projects-page
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025
   
   [[PDF](https://arxiv.org/pdf/2412.15674)] [[Code](https://github.com/xzhe-Vision/PersonaMagic)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/MM2025.jpg">  
+
+**DiffusionMat: Alpha Matting as Deterministic Sequential Refinement Learning**
+
+*Yangyang Xu, Shengfeng He, Wenqi Shao, **Yong Du**, Kwan-Yee K. Wong, Yu Qiao, Jun Yu, and Ping Luo*
+  
+ACM International Conference on Multimedia (**ACM MM**), 2025
+  
+  [PDF] [Code]
 
 </ProjectCard>
 

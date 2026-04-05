@@ -27,6 +27,32 @@ pageClass: projects-page
 
 <p style="position: relative"><font size=4><sup>#</sup>Joint first author, *Corresponding author.</font>
 </p>
+##2026
+<ProjectCard image="/projects/CVPR2026.jpg">  
+
+**NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather**
+
+*Yanying Li, Jinyang Li, Shengfeng He, Yangyang Xu, Junyu Dong, and **Yong Du\****
+  
+ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
+  
+ [[PDF](https://arxiv.org/abs/2603.27228)] [[Code](https://github.com/lyy-ovo/NimbusGS)] 
+
+</ProjectCard>
+
+<ProjectCard image="/projects/IJCV2026.jpg">  
+
+**Invert Your Prompt: Editing-Aware Diffusion Inversion**
+
+*Yangyang Xu, Wenqi Shao, **Yong Du**, Haiming Zhu, Yang Zhou, Jiayuan Xie, Ping Luo, and Shengfeng He*
+  
+International Journal of Computer Vision (**IJCV**), 2026
+  
+ [[PDF](https://www.csyongdu.cn/publications/)] [[Code](https://www.csyongdu.cn/publications/)] 
+
+</ProjectCard>
+
+
 
 ## 2025
 <ProjectCard image="/projects/ICCV25-VTON.jpg">  

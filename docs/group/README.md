@@ -9,8 +9,7 @@ max-height: 300px;">
 
 # Group
 
-The Visual Understanding and Generation (VUG) group is led by **Prof. Yong Du** and [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/main.htm), and it belongs to the [Institute of Artificial Intelligence](http://ai-ouc.cn/) at OUC.
-
+The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du** and is affiliated with the [Institute of Artificial Intelligence](http://ai-ouc.cn/) at OUC.
 
 ## Students
 

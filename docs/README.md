@@ -27,6 +27,8 @@ My research interests encompass the realms of visual understanding, cross-modal 
 
 
 ## News
+-  02/2026, 1 paper has been accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026).
+-  12/2025, 1 paper has been accepted by IJCV.
 -  07/2025, 1 paper has been accepted by [ACM MM2025](https://acmmm2025.org/). 
 -  06/2025, 3 paper has been accepted by [ICCV2025](https://iccv.thecvf.com/Conferences/2025).  
 -  01/2025, 1 paper has been accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).  

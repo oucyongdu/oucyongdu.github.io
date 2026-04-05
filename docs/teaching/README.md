@@ -3,7 +3,7 @@ pageClass: teaching-page
 description: 'The biography and information about me.'
 avatar: /yongdu.jpg
 head: 'Yong Du'
-info: 'Assistant Professor at Ocean University of China'
+info: 'Associate Professor at Ocean University of China'
 
 
 

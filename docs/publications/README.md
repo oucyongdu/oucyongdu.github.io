@@ -27,7 +27,7 @@ pageClass: projects-page
 
 <p style="position: relative"><font size=4><sup>#</sup>Joint first author, *Corresponding author.</font>
 </p>
-##2026
+## 2026
 <ProjectCard image="/projects/CVPR2026.jpg">  
 
 **NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather**

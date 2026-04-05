@@ -16,7 +16,7 @@ email: csyongdu@ouc.edu.cn
 <div>                </div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
-## Bio
+## Bio  ([中文版](https://it.ouc.edu.cn/dy/list.htm))
 <p style="text-align:justify;text-align-last:justify"></p>
 
 I am an associate professor in [the Faculty of Information Science and Engineering](http://it.ouc.edu.cn/), at [Ocean University of China](http://www.ouc.edu.cn/). I received my Ph.D. degree from [South China University of Technology](https://www.scut.edu.cn/new/) under the supervision of [Prof. Guoqiang Han](http://www2.scut.edu.cn/cs/2017/0629/c22284a328110/page.htm) and [Prof. Shengfeng He](http://www.shengfenghe.com/) in December 2019. I received the B.Sc. degree and M.Eng. degree in computer science and technology from [Jiangnan University](https://www.jiangnan.edu.cn/) under the supervision of [Prof. Xiaojun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en), in 2011 and 2014 respectively. 

@@ -35,7 +35,7 @@ pageClass: projects-page
 
 **HarmonPaint: Harmonized Training-Free Diffusion Inpainting**
 
-*Xinzhe Li, Ying Li, **Yong Du**, Yangyang Xu, Junyu Dong, and Shengfeng He*
+*Xinzhe Li, Ying Li, **Yong Du\***, Yangyang Xu, Junyu Dong, and Shengfeng He*
   
  IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2026
   

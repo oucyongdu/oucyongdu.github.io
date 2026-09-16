@@ -15,54 +15,6 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
 
 <div style="position: relative;line-height:1.5em;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
 
-<MemberCard image="/students/zichengjiang.jpg">
-
-<font size=4>**Zicheng Jiang**</font>
-
-<font size=3>(蒋子成)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2023-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/yingli.jpg">
-
-<font size=4>**Ying Li**</font>
-
-<font size=3>(李莹)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2023-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/chilinhe.jpg">
-
-<font size=4>**Chilin He**</font>
-
-<font size=3>(何驰林)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2023-Present</font>
-
-</MemberCard>
-
-<MemberCard image="/students/yichen.jpg">
-
-<font size=4>**Yi Chen**</font>
-
-<font size=3>(陈艺)</font>
-
-<font size=3>Master Student</font>
-
-<font size=3>2023-Present</font>
-
-</MemberCard>
-
 <MemberCard image="/students/yuhuili.jpg">
 
 <font size=4>**Yuhui Li**</font>
@@ -159,6 +111,66 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
 
 </MemberCard>
 
+<MemberCard image="/students/hankunyu.png">
+
+<font size=4>**Hankun Yu**</font>
+
+<font size=3>(于汉鲲)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2026-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/peixinliu.jpg">
+
+<font size=4>**Peixin Liu**</font>
+
+<font size=3>(刘培鑫)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2026-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/qianyizheng.jpg">
+
+<font size=4>**Qianyi Zheng**</font>
+
+<font size=3>(郑千艺)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2026-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/fenggao.jpg">
+
+<font size=4>**Feng Gao**</font>
+
+<font size=3>(高锋)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2026-Present</font>
+
+</MemberCard>
+
+<MemberCard image="/students/yangcao.png">
+
+<font size=4>**Yang Cao**</font>
+
+<font size=3>(曹洋)</font>
+
+<font size=3>Master Student</font>
+
+<font size=3>2026-Present</font>
+
+</MemberCard>
+
 </div>
 
 ## Alumni
@@ -174,6 +186,47 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         <th>Award</th>
         <th>First Job/Currently</th>
     </tr>
+
+ <MemberTable              
+        Index="Master #10" 
+        Image="/students/yichen.jpg" 
+        Name="陈艺" 
+        Ename="Yi Chen" 
+        Graduation="2026" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="国家税务总局中山火炬高技术产业开发区税务局"
+    />
+ <MemberTable              
+        Index="Master #9" 
+        Image="/students/chilinhe.jpg" 
+        Name="何驰林" 
+        Ename="Chilin He" 
+        Graduation="2026" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="中国移动通信集团广西有限公司"
+    />
+ <MemberTable              
+        Index="Master #8" 
+        Image="/students/yingli.jpg" 
+        Name="李莹" 
+        Ename="Ying Li" 
+        Graduation="2026" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="新疆阿勒泰地区财政局"
+    />
+ <MemberTable              
+        Index="Master #7" 
+        Image="/students/zichengjiang.jpg" 
+        Name="蒋子成" 
+        Ename="Zicheng Jiang" 
+        Graduation="2026" 
+        Program="Master at OUC" 
+        Award="" 
+        Currently="吉利汽车研究院"
+    />
  <MemberTable              
         Index="Master #6" 
         Image="/students/yulongzheng.jpg" 

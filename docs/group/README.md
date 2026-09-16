@@ -111,7 +111,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
 
 </MemberCard>
 
-<MemberCard image="/students/hankunyu.png">
+<MemberCard image="/students/hankunyu.jpg">
 
 <font size=4>**Hankun Yu**</font>
 

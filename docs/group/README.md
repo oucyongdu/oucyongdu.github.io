@@ -317,7 +317,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="" 
         Currently="M.S. at 浙江大学"
     />
-     <MemberTable              
+<MemberTable              
         Index="" 
         Image="/students/xiaolinliu.png" 
         Name="刘晓琳" 
@@ -327,7 +327,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="" 
         Currently="M.S. at 天津大学"
     />
-    <MemberTable              
+<MemberTable              
         Index="" 
         Image="/students/wenlongwan.png" 
         Name="万文龙" 

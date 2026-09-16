@@ -247,7 +247,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="" 
         Currently="旷视科技"
     />
-       <MemberTable              
+<MemberTable              
         Index="Master #4" 
         Image="/students/zhaotongyang.jpg" 
         Name="杨肇桐" 
@@ -257,7 +257,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="National Scholarship for Graduate Students" 
         Currently="PhD at 南京理工大学(NJUST)-国家杰青组"
     />
-      <MemberTable              
+<MemberTable              
         Index="Master #3" 
         Image="/students/yuzheng.png" 
         Name="郑宇" 
@@ -267,7 +267,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="National Scholarship for Graduate Students" 
         Currently="PhD at 南京理工大学(NJUST)-国家杰青组"
     />
-    <MemberTable              
+<MemberTable              
         Index="Master #2" 
         Image="/students/weihualv.jpg" 
         Name="吕伟华" 
@@ -277,7 +277,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="" 
         Currently="山东乾云信息科技有限公司"
     />
-      <MemberTable              
+<MemberTable              
         Index="Master #1" 
         Image="/students/jiahuizhan.jpg" 
         Name="展家慧" 
@@ -287,7 +287,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
         Award="" 
         Currently="PhD at 上海交通大学(SJTU)"
     />    
-    <MemberTable              
+<MemberTable              
         Index="" 
         Image="/students/xiaolinliu.png" 
         Name="曹文汀" 

@@ -31,6 +31,30 @@ pageClass: projects-page
 
 
 ## 2026
+<ProjectCard image="/projects/TVCG-harmon.png">  
+
+**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**
+
+*Xinzhe Li, Ying Li, **Yong Du**, Yangyang Xu, Junyu Dong, and Shengfeng He*
+  
+ IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2026
+  
+ [[PDF](https://www.csyongdu.cn/publications/)] [[Code](https://www.csyongdu.cn/publications/)] 
+
+</ProjectCard>
+
+<ProjectCard image="/projects/TVCG-avatar.png">  
+
+**AvatarVTON: 4D Virtual Try-On for Animatable Avatars**
+
+*Zicheng Jiang, Jixin Gao, Shengfeng He, Xinzhe Li, Yulong Zheng, Zhaotong Yang, Junyu Dong, and **Yong Du\****
+  
+ IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2026
+  
+ [[PDF](https://ieeexplore.ieee.org/document/11573659/)] [[Code](https://www.csyongdu.cn/publications/)] 
+
+</ProjectCard>
+
 <ProjectCard image="/projects/CVPR2026.jpg">  
 
 **NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather**

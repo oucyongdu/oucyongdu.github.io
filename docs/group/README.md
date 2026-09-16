@@ -159,7 +159,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
 
 </MemberCard>
 
-<MemberCard image="/students/yangcao.png">
+<MemberCard image="/students/yangcao.jpg">
 
 <font size=4>**Yang Cao**</font>
 
@@ -229,7 +229,7 @@ The Visual Understanding and Generation (VUG) group is headed by **Prof. Yong Du
     />
  <MemberTable              
         Index="Master #6" 
-        Image="/students/yulongzheng.jpg" 
+        Image="/students/yulongzheng.JPG" 
         Name="郑玉龙" 
         Ename="Yulong Zheng" 
         Graduation="2025" 

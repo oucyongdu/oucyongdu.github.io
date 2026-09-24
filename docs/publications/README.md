@@ -31,6 +31,18 @@ pageClass: projects-page
 
 
 ## 2026
+<ProjectCard image="/projects/TIP-2026.jpg">  
+
+**DeshadowMamba: Deshadowing as 1D Sequential Similarity**
+
+*Zhaotong Yang, Yi Chen, Yanying Li, Shengfeng He, Yangyang Xu, Junyu Dong, Jian Yang, and **Yong Du\****
+   
+IEEE Transactions on Image Processing (**TIP**), 2026
+  
+ [[PDF](https://www.csyongdu.cn/publications/)] [[Code](https://www.csyongdu.cn/publications/)] 
+
+</ProjectCard>
+
 <ProjectCard image="/projects/TVCG-harmon.png">  
 
 **HarmonPaint: Harmonized Training-Free Diffusion Inpainting**
@@ -177,6 +189,18 @@ ACM International Conference on Multimedia (**ACM MM**), 2025
  IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025
   
  [[PDF](https://ieeexplore.ieee.org/document/10816137)] [[Code](https://www.csyongdu.cn/publications/)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/TIP-2025.jpg">  
+
+**HG-SFDA: HyperGraph Learning Meets Source-free Unsupervised Domain Adaptation**
+
+*Jinkun Jiang, Qingxuan Lv, Yuezun Li, **Yong Du**, Junyu Dong, Sheng Chen, and Hui Yu*
+  
+IEEE Transactions on Image Processing (**TIP**), 2025
+  
+ [[PDF](https://ieeexplore.ieee.org/document/11250877)] [[Code](https://www.csyongdu.cn/publications/)]
 
 </ProjectCard>
 
